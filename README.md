@@ -56,6 +56,7 @@ somehow affect cyber-civil-society
 * [Rarenet](http://www.rarenet.org/) 	
 * [Speak up speak out](http://www.speakout-speakup.org/)
 * [TechChange](https://www.techchange.org/)
+* [EDRI](https://edri.org)
 			
 ##Environmental Organizations
 * [Greenpeace](http://www.greenpeace.org/international/en/)
@@ -107,6 +108,8 @@ somehow affect cyber-civil-society
 * [Open Whisper Systems](https://whispersystems.org/)
 * [Wikileaks](https://wikileaks.org/)
 * [WITNESS](https://witness.org/)
+* [Digital Courage](https://digitalcourage.de/)
+* [Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e.V.](https://fiff.de)
 
 ##Political Parties
 * [Pirate Parties International](https://pp-international.net/)
