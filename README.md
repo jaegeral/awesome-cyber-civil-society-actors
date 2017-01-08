@@ -77,7 +77,7 @@ somehow affect cyber-civil-society
 		
 ##Journalism Organizations
 * [Investigative Reporters and Editors](http://www.ire.org/)
-* [Netzpolitik.org](https://netzpolitik.org/
+* [Netzpolitik.org](https://netzpolitik.org/)
 		
 ##LGBT Rights Organizations
 * [Háttér Society ](http://en.hatter.hu)
