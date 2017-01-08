@@ -77,6 +77,7 @@ somehow affect cyber-civil-society
 		
 ##Journalism Organizations
 * [Investigative Reporters and Editors](http://www.ire.org/)
+* [Netzpolitik.org](https://netzpolitik.org/
 		
 ##LGBT Rights Organizations
 * [Háttér Society ](http://en.hatter.hu)
@@ -90,6 +91,7 @@ somehow affect cyber-civil-society
 * [CPSR Computer Professionals for Social Responsibility](https://cpsr.org/)
 * [Human Rights Watch](https://www.hrw.org/)
 * [La Quadrature du Net](https://www.laquadrature.net/)
+* [GFF (Gesellschaft für Freiheitsrechte / Society for Civil Rights)](https://freiheitsrechte.org/english/)
 		
 ##Non-Profit Organizations (NPOs)
 * [Access Now](https://accessnow.org/)
