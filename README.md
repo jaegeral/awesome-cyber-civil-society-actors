@@ -41,6 +41,8 @@ somehow affect cyber-civil-society
 
 ##Community Foundations
 * [The London Community Foundation](http://www.londoncf.org.uk/)
+* [Digital Defenders Partnership (DDP)](https://digitaldefenders.org)
+* [P2P Foundation](https://p2pfoundation.net/)
 
 ##Community Organizations
 * [ACORN](http://www.acorninternational.org/)
@@ -51,19 +53,24 @@ somehow affect cyber-civil-society
 ##Cooperatives
 * [Cooperative Home Care Associates](http://www.chcany.org/) 
 * [Association for Progressive Communication](http://www.apc.org/) 	
-			
+* [Rarenet](http://www.rarenet.org/) 	
+* [Speak up speak out](http://www.speakout-speakup.org/)
+* [TechChange](https://www.techchange.org/)
 			
 ##Environmental Organizations
 * [Greenpeace](http://www.greenpeace.org/international/en/)
 		
 ##Foundations
 * [Wau Holland Foundation](https://www.wauland.de/)
+* [Freedom of the press foundation](https://freedom.press/)
+* [Front Line Defenders](https://www.frontlinedefenders.org/)
+* [Free Software Foundation Europe](https://fsfe.org)
 		
 ##Human Rights Organisations
 * [UC Berkeley Human Rights Center](https://www.law.berkeley.edu/research/human-rights-center/programs/technology/)
 * [Amnesty International](https://www.amnesty.org/)
 * [Courage Foundation](https://couragefound.org/)
-
+* [New Tactics in Human Rights](https://www.newtactics.org/)
 
 ##Indigenous Rights Organizations
 * [Kimberley Land Council](http://www.klc.org.au/)
@@ -77,10 +84,12 @@ somehow affect cyber-civil-society
 ##Non-Aligned Individuals
 * [Laura Poitras](https://en.wikipedia.org/wiki/Laura_Poitras)
 * [Bruce Schneier](https://www.schneier.com/)
-
 		
 ##Non-Governmental Organizations (NGOs)
 * [Médecins Sans Frontières](http://www.msf.org/)
+* [CPSR Computer Professionals for Social Responsibility](https://cpsr.org/)
+* [Human Rights Watch](https://www.hrw.org/)
+* [La Quadrature du Net](https://www.laquadrature.net/)
 		
 ##Non-Profit Organizations (NPOs)
 * [Access Now](https://accessnow.org/)
@@ -88,6 +97,14 @@ somehow affect cyber-civil-society
 * [unicef](https://www.unicef.org/)
 * [CDT Center for Democracy and Technology](https://www.cdt.org/)
 * [CiviCERT](https://www.civicert.org/)
+* [Crash Override Network](http://www.crashoverridenetwork.com/)
+* [Cryptome](https://cryptome.org/)
+* [Freedom House](https://freedomhouse.org)
+* [Privacy International](https://www.privacyinternational.org/)
+* [Tactical Tech](https://tacticaltech.org/)
+* [Open Whisper Systems](https://whispersystems.org/)
+* [Wikileaks](https://wikileaks.org/)
+* [WITNESS](https://witness.org/)
 
 ##Political Parties
 * [Pirate Parties International](https://pp-international.net/)
@@ -108,13 +125,29 @@ somehow affect cyber-civil-society
 * [ACLU](https://www.aclu.org/)
 		
 ##Student Organizations
-
-		
+	
 ##Trade Unions
-
 		
 ##Women's Rights Organizations
 
 ##Other
 * [Project Shield](https://projectshield.withgoogle.com/) 
+* [crypto.is](https://crypto.is)
+* [CryptoParty](https://www.cryptoparty.in/)
+* [Deflect](https://deflect.ca/)
+* [GNU Privacy Guard](https://www.gnupg.org/)
+* [Guardian Project](https://guardianproject.info/)
+* [NURPA](https://nurpa.be/)
+* [Qubes OS](https://www.qubes-os.org/)
+* [Tails OS](https://tails.boum.org/)
+* [TOR](https://torproject.org/)
+* [Riseup](https://riseup.net)
+* [Securing Change](http://securingchange.org/)
+* [Security in a box](https://securityinabox.org)
+* [Securing the human](http://securingthehuman.sans.org/)
+* [Security without borders](https://securitywithoutborders.org/)
 * [Curated Twitter List](https://twitter.com/graphiclunarkid/lists/digital-rights/members)
+
+##Other awesome lists that might be interesting
+
+
