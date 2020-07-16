@@ -107,7 +107,6 @@ somehow affect cyber-civil-society
 * [Privacy International](https://www.privacyinternational.org/)
 * [Tactical Tech](https://tacticaltech.org/)
 * [Open Whisper Systems](https://whispersystems.org/)
-* [Wikileaks](https://wikileaks.org/)
 * [WITNESS](https://witness.org/)
 * [Digital Courage](https://digitalcourage.de/)
 * [Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e.V.](https://fiff.de)
